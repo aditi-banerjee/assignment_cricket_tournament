@@ -1,0 +1,9 @@
+Team B;Team C;win
+Team A;Team D;draw
+Team A;Team B;win
+Team C;Team D;win
+Team D;Team A;win
+Team B;Team D;draw
+Team D;Team B;win
+Team C;Team A;draw
+Team D;Team B;loss
